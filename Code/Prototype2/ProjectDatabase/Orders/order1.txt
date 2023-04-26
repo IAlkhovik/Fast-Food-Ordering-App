@@ -1,0 +1,29 @@
+Name: Guest
+Size: Large
+Crust: 
+Meat Toppings: 
+Veggie Toppings: 
+Price: 9.00
+
+Side: Breadsticks
+Quantity: 1
+Price: 4.0
+
+Drink: Orange
+Size: S
+Quantity: 1
+Price: 1.0
+
+Drink: Sierra Mist
+Size: S
+Quantity: 1
+Price: 1.0
+
+Drink: Orange
+Size: S
+Quantity: 1
+Price: 1.0
+
+Total Price: 16.00
+Payment Method: Credit Card
+Delivery Method: Carryout
